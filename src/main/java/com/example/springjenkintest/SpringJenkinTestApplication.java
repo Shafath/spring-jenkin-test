@@ -15,7 +15,7 @@ public class SpringJenkinTestApplication {
     }
 
     public static void main(String[] args) {
-        logger.info("main method");
+        logger.info("main method 2");
         SpringApplication.run(SpringJenkinTestApplication.class, args);
     }
 

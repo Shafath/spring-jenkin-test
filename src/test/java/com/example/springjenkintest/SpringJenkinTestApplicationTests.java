@@ -14,6 +14,7 @@ class SpringJenkinTestApplicationTests {
     @Test
     void contextLoads() {
         logger.info("test method");
+        logger.info("test method 2");
         Assert.assertEquals(true, true);
     }
 
